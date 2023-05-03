@@ -1,5 +1,1 @@
-# Projeto teste
-
-## Utilizando GitHub e GitHub Desktop
-
-GitHub
+# Lucas Miranda - 3A
